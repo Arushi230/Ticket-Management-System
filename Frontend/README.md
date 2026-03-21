@@ -31,11 +31,6 @@ A web-based application that allows users to create, track, and manage tickets/i
 ### Dashboard
 ![Dashboard](<Screenshot (189).png>)
 
-### Create Ticket
-![Create Ticket](screenshots/create.png)
-
-### Ticket List
-![Tickets](screenshots/tickets.png)
 
 ## ⚙️ How to Run Locally
 
