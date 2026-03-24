@@ -31,7 +31,18 @@ A web-based application that allows users to create, track, and manage tickets/i
 ### Dashboard
 ![Dashboard](<Screenshot (189).png>)
 
+### Ticket Creation
+![Create Ticket](<Screenshot (362).png>)
+
+### User Dashboard
+![User Dashboard](<Screenshot (363).png>)
+
+### Agent Dashboard
+![Agent Dashboard](<Screenshot (365).png>)
+
+### Admin Dashboard
+![Admin Dashboard](<Screenshot (366).png>)
 
 ## ⚙️ How to Run Locally
 
-1. Clone the repository: git clone https://github.com/Arushi230/Ticket-Management-System.git 
+ Clone the repository: git clone https://github.com/Arushi230/Ticket-Management-System.git 

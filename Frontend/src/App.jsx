@@ -17,7 +17,7 @@ const App = ()=>{
       <Route path='/' element = {<SelectLogin/>}/>
       <Route path='/user' element = {<UserLoginPage/>}/> 
       <Route path='/userregister' element={<UserRegisterPage/>}/>
-      <Route path='userdashboard' element={<UserDashboard/>}/>
+      <Route path='/userdashboard' element={<UserDashboard/>}/>
        <Route path='/agentlogin' element={<AgentLoginPage />}/>
       <Route path='/agentdashboard' element={<AgentDashboard/>}/>
       <Route path='/adminlogin' element={<AdminLogin/>}/>

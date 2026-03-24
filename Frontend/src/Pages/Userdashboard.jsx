@@ -259,7 +259,12 @@ const UserDashboard = () => {
                   <h4 className="text-sm font-semibold text-green-400">Agent Comments:</h4>
                   <ul className="text-gray-400 list-disc pl-5">
                     {ticket.comments.map((c, i) => (
-                      <li key={i}>{c}</li>
+                      <li key={c._id}>
+  <p>{c.text}</p>
+  <small className="text-gray-500">
+    {new Date(c.time).toLocaleString()}
+  </small>
+</li>
                     ))}
                   </ul>
                 </div>
